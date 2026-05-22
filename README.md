@@ -1,5 +1,8 @@
 ![](https://img.shields.io/badge/Signed-No-FF3333)
 ![](https://img.shields.io/badge/Game-TM-blue)
+![](https://img.shields.io/badge/Game-MP4-blue)
+![](https://img.shields.io/badge/Game-Turbo-blue)
+![](https://img.shields.io/badge/Game-Forever-blue)
 
 # Docs
 
