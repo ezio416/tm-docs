@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Signed-No-FF3333)
 ![](https://img.shields.io/badge/Game-TM-blue)
 
-# PluginTemplate
+# Docs
 
-A template for writing plugins more easily.
+An Openplanet documentation plugin.
 
 <!-- ![Signed](https://img.shields.io/badge/Signed-Yes-00AA00) -->
 <!-- ![Signed](https://img.shields.io/badge/Signed-School_Mode-CC1199) -->
